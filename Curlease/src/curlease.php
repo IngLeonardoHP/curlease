@@ -1,5 +1,5 @@
 <?php
-namespace Curlease;
+namespace Curlease\Curlease;
 
 class Curl{
     private $url = "";

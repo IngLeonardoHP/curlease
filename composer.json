@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Curlease": "src"
+            "Curlease\\Curlease\\": "src"
         }
     }
 }
