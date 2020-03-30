@@ -16,5 +16,10 @@
         "psr-4": {
             "Curlease\\Curlease\\": "src"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Curlease\\Curlease\\": "src"
+        }
     }
 }
