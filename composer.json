@@ -1,7 +1,7 @@
 {
-    "name": "curl-ease",
+    "name": "curlease",
     "description": "Escribe peticiones curl de forma facil",
-    "homepage": "https://github.com/IngLeonardoHP/curl-ease.git",
+    "homepage": "https://github.com/IngLeonardoHP/curlease.git",
     "authors": [
         {
             "name": "Leonardo Hernández",
