@@ -16,6 +16,5 @@
         "psr-4": {
             "Curlease\\Curlease\\": "src"
         }
-    },
-    "license": "OSBA"
+    }
 }
